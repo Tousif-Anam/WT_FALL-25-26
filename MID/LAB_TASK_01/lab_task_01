@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+
+<title> Blood_Management</title>
+
+</head>
+
+<body>
+
+<center>
+
+<h1> Welcome to blood management service </h1>
+
+
+</center>
+
+
+Enter Your Name :
+<input type ="text"> <br><br>
+
+Enter Your Age :
+<input type = "text"> <br> <br>
+
+Enter Your DOB :
+<input type = "date"> <br> <br>
+
+Select Your Gender:
+<input type ="radio"> Male
+<input type ="radio"> Female
+<input type ="radio"> Others
+SElect Your Blood Group:
+<input type ="checkbox"> A+<br>
+<input type ="checkbox"> A-<br>
+<input type ="checkbox"> B+<br>
+<input type ="checkbox"> B-<br>
+<input type ="checkbox"> O+<br>
+<input type ="checkbox"> o-<br>
+<input type ="checkbox"> AB+<br>
+<input type ="checkbox"> AB-<br>
+
+
+Enter Your NID No:
+<input type = "text"> <br> <br>
+
+Have You Donated Before ?
+<input type ="checkbox"> Yes
+<input type ="checkbox"> No
+
+Last Donation Date:
+<input type ="date"
+   
+<center>
+    <inout type ="submit">
+
+<center>
+
+
+
+</body>
