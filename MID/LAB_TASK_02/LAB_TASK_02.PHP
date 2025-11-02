@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+git commit <!DOCTYPE html>
 <head>
 
 <title> WT_k </title>
@@ -54,15 +54,7 @@ Password: <br>
 
 Confirm Password: <br>
 <input type ="password"> <br><br>
-<!-- 
-Enter your preffered language:
-<input type ="radio"> Bangla
-<input type ="radio"> English -->
 
-<!-- Enter your preffered language:
-<input type ="checkbox"> Bangla
-<input type ="radio"> English -->
-   
 <center>
    <input type="submit" value="Register">
 
