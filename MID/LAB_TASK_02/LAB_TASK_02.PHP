@@ -56,7 +56,7 @@ Confirm Password: <br>
 <input type ="password"> <br><br>
 
 <center>
-   <input type="submit" value="Register">
+   
 
 
 <center>
