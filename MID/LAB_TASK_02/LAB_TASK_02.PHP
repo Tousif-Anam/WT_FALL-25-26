@@ -1,4 +1,4 @@
-git commit <!DOCTYPE html>
+<!DOCTYPE html>
 <head>
 
 <title> WT_k </title>
@@ -9,7 +9,7 @@ git commit <!DOCTYPE html>
 
 <center>
 
-<h1 style =color:blue> Clinic Patient Registration </h1>
+<h1 style =color:#5a2d82> Clinic Patient Registration </h1>
 
 
 </center>
@@ -41,7 +41,7 @@ Insurance Policy Number: <br>
 
 <center>
 
-<h2 style =color:blue> Additional Information </h2>
+<h2 style =color:#5a2d82> Additional Information </h2>
 
 
 </center>
@@ -55,8 +55,11 @@ Password: <br>
 Confirm Password: <br>
 <input type ="password"> <br><br>
 
-<center>
    
+<center>
+  <input type="submit" value="Register" 
+style="background-color: #5a2d82; color: white; border: none; padding: 12px; width: 100%; border-radius: 6px; font-size: 16px; cursor: pointer;">
+
 
 
 <center>
