@@ -14,7 +14,7 @@
 <h1> lets make aa registration form </h1>
 
 </center>
-<p> I am a student of this class, <br> in this class I will learn html,css,js and many money_format
+<p> I am a student of this class, I am a student of this class, <br> in this class I will learn html,css,js and many money_format
 
 Enter your name :
 <input type ="text"> <br><br>
@@ -37,7 +37,7 @@ Enter your preffered language:
     <inout type ="submit">
 
 <center>
-
+ 
 
 
 </body>
