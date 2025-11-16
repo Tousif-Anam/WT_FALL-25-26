@@ -29,6 +29,11 @@
             margin-top:15px;
             display:none;
         }
+        button{
+            color:whoite;
+            width:100%
+        }
+
         
         form{
             background-color:
@@ -57,6 +62,7 @@
             <label>Confirm Password:</label><br>
             <input type ="password" id="confirmpassword"/><br>
             <button type ="submit">Register</button><br><br>
+            <button class="button"
             <div id="b2"></div>
     </div>
             <script>
@@ -68,15 +74,14 @@
                 
 
                 if(!name||!email|!password||!confirmpassword){
-                    alert("All fields are required")
+                   errorDiv.innerHTML("All fields are required")
                     return;
                 }
                 if(pass!==confirmpassword){
-                    alert("Password do not match! Try again.")
+                    errorDiv.innerHTML("Password do not match! Try again.")
                     return;
                 }
-                b2.style.display="block";
-                b2.innerhtml=<strong>Registration succesful!</strong><br><br>
+                b2.innerHTML=<strong>Registration succesful!</strong><br><br>
                 Name:${name}<br>
                 Email:${email};
             }
